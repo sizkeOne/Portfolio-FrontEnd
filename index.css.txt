@@ -1,0 +1,4 @@
+/color de fondo 276E90/
+/color caja de texto CECFC9/
+/color oscuro CA3143/
+/color claro EFEFEF/
